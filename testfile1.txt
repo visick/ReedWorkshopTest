@@ -1,5 +1,2 @@
 Test file
-Added something
-Added more.
-User 1 added this.
-User 2 added this.
+
